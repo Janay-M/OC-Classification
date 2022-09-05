@@ -7,9 +7,11 @@ OC-Classification Repository content:
 - detection repo with 4 model architectures
 - severity estimation repo with 4 model architectures
 
-Python version: 3.9.12
-Keras version: 2.8.0
+Software
+- Python version: 3.9.12
+- Keras version: 2.8.0
 
+Other notes
 - Each task folder contains the four classification models (cnn, log, mlp, svm) that I used.
 - Each model can be used with either LTAS or MFCC feature input. 
 
